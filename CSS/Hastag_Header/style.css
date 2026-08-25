@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: cursive;
+  color: white;
+}
+
+.header {
+  background-color: #065fd4;
+  background-image: url("./images/background.png");
+  padding: 4rem;
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: -160px;
+  background-size: 260px;
+}
+
+.header h2 {
+  margin-bottom: 1rem;
+  font-size: 3rem;
+}
+
+.header span {
+  font-size: 1.54rem;
+}
+
+.header img {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 100%;
+  border: 5px solid white;
+  vertical-align: middle;
+}
+
+img + img {
+  margin-left: -1rem;
+}
