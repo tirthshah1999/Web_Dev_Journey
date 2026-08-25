@@ -1,0 +1,31 @@
+body {
+  background-color: #d5e1ef;
+  font-family: cursive;
+  text-align: center;
+}
+
+.card {
+  width: 100%;
+  max-width: 302px;
+  height: 407px;
+  padding: 1rem;
+  padding-bottom: 6rem;
+  background-color: white;
+  border-radius: 10px;
+  position: absolute;
+  inset: 0;
+  margin: auto;
+}
+
+.qr {
+  width: 100%;
+  border-radius: 10px;
+}
+
+h2 {
+  color: #1f3251;
+}
+
+p {
+  color: #7b879d;
+}
